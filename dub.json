@@ -1,0 +1,12 @@
+{
+	"name": "vibe-pyd",
+	"description": "utilities for using vibe.d and pyd together",
+	"copyright": "Copyright © 2015, Ellery Newcomer",
+	"authors": ["Ellery Newcomer"],
+        "license": "MIT",
+        "targetType": "library",
+	"dependencies": {
+            "vibe-d": "0.7.23",
+            "pyd": ">=0.9.7",
+	}
+}
